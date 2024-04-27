@@ -1,6 +1,6 @@
 # Rebanacing-Optimization-with-Dynamic-Programming
 
-### The Report Written in Korean. Codes in English
+### The Report Written in Korean. Codes in English.
 ### Reference
 - "Optimal Rebalancing Strategy Using Dynamic Programming for Institutional Portfolios", Walter Sun et al.(2004)
 - "Rational rebalancing: An analytical approach to multiasset portfolio rebalancing decisions and insights", Yu Zhang el al.(2022)
