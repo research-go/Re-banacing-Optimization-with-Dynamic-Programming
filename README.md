@@ -1,4 +1,4 @@
-# Re-banacing-Optimization-with-Dynamic-Programming
+# Rebanacing-Optimization-with-Dynamic-Programming
 
 ### Written in Korean
 
