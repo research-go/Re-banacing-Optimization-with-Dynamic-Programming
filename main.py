@@ -1,6 +1,6 @@
 """
 Written by Byeongjae Kwon
-Please put code anc csv files together in one directory.
+Please put code and csv files together in one directory.
 """
 
 # Libraries
